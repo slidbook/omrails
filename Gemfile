@@ -3,7 +3,7 @@ ruby '2.0.0'
 
 gem 'rails', '4.0.0'
 gem 'jquery-rails'
-
+gem 'devise', '3.0.0.rc'
 
 gem 'sqlite3', group: [:development, :test]
 gem 'pg', group: [:production]
